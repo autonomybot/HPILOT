@@ -1,4 +1,4 @@
-# leorover_isaac
+# HPILOT (Hybrid PPO-LQR Isaac Leo Optimized Tracking)
 
 GPU-accelerated Isaac Lab port of the Leo Rover RL stack. Sibling repo to
 [leoroverpybullet_share](../leoroverpybullet_share). The PyBullet version
